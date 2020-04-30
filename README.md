@@ -3,3 +3,4 @@ Example website built with
 under the
 [MIT license](http://opensource.org/licenses/mit-license.html).
 This website uses the [jekyll minima](https://github.com/jekyll/minima) theme.
+*
